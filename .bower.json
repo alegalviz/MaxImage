@@ -1,5 +1,5 @@
 {
-  "name": "MaxImage",
+  "name": "maximage",
   "version": "2.0.8",
   "main": [
     "lib/css/jquery.maximage.css",
